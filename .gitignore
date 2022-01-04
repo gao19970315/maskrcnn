@@ -6,6 +6,9 @@ results/
 temp/
 test/
 
+#权重
+mask_rcnn_coco.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
